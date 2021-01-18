@@ -1,4 +1,4 @@
-package com.joeygibson.gh-mvn;
+package com.joeygibson.ghmvn;
 
 /**
  * Hello world!
